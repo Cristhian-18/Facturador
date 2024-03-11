@@ -66,7 +66,7 @@ include("../php/Conexion.php");
             <div class="form-row">
                 <div class="form-group col-md-3">
                     <label for="">
-                        Clientessssssssssssssssssssssssssssss:
+                        Cliente:
                     </label>
                     <input type="text" name="codigoCliente" id="codigoCliente" class= "form-control">
                 </div>
